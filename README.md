@@ -1,2 +1,2 @@
-# CSE160
-This repository is what I will use to create all the live pages needed for this class.
+# CSE160_asgn0
+This is the repository for assignment 0 of CSE160 taught by Professor James Davis.
